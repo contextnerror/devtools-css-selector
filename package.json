@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@medv/finder": "^2.0.0",
-    "webpack-merge": "^4.2.2"
+    "webpack-merge": "^6.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
